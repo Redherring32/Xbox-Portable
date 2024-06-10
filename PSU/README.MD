@@ -3,3 +3,6 @@ It does not yet have charging built in, but can be used in its current state as 
 
 For info on identifying a 121 Xbox PCB you can read this guide here: https://www.herringhardware.com/XboxRevisions.html
 For info on disabling standby and removing stock regulators on a 121 motherboard you can read this guide: https://bitbuilt.net/forums/index.php?threads/xbox-trimming-guide.6157/
+
+
+![Xbox PMS](https://i.imgur.com/pJGCVL5.png)
