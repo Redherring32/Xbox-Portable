@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HDMI-FFC")(type "KiCad")(uri "${KIPRJMOD}/HDMI-FFC.pretty")(options "")(descr ""))
+)

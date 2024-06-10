@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IDEFlex")(type "KiCad")(uri "${KIPRJMOD}/IDEFlex.pretty")(options "")(descr ""))
+)

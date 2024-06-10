@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IDEFlex")(type "KiCad")(uri "${KIPRJMOD}/IDEFlex.kicad_sym")(options "")(descr ""))
+)

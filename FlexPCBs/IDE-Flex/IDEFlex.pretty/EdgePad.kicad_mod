@@ -1,0 +1,23 @@
+(footprint "EdgePad" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)")
+  (tags "resistor array")
+  (attr smd)
+  (fp_text reference "REF**9" (at 0 -2.6) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp abf59019-84ff-4025-b7ed-9bcbbe57e2e5)
+  )
+  (fp_text value "EdgePad" (at 0 2.6) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp df13fae4-dde8-4dde-ba27-82ea3a1b9841)
+  )
+  (pad "1" smd rect (at -0.85 -1.2) (size 0.9 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8ba864ca-4380-4f9b-b3a0-910f4110aad4))
+  (pad "2" smd rect (at -0.85 -0.4) (size 0.9 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b2e935b7-0ce1-4a40-91e5-02dad879fbec))
+  (pad "3" smd rect (at -0.85 0.4) (size 0.9 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4ae79bbb-e4eb-4677-a19e-88da87b47c7a))
+  (pad "4" smd rect (at -0.85 1.2) (size 0.9 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1737285f-9dae-45cf-bb2a-20b9bdbcfde3))
+  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Concave_4x0603.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

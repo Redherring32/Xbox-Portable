@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AT43USB353M-AC")(type "KiCad")(uri "C:/Users/Redherring32/Downloads/AT43USB353M-AC.kicad_sym")(options "")(descr ""))
+  (lib (name "S Controller")(type "KiCad")(uri "${KIPRJMOD}/S Controller.kicad_sym")(options "")(descr ""))
+)
