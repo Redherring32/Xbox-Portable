@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "Xbox-PMS")(type "KiCad")(uri "${KIPRJMOD}/Xbox-PMS.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS25750D")(type "KiCad")(uri "C:/100W-Charging-PCB/TPS25750D.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ25713")(type "KiCad")(uri "C:/100W-Charging-PCB/BQ25713.kicad_sym")(options "")(descr ""))
 )

@@ -4541,12 +4541,6 @@
 		(uuid "176ea713-d7a4-41d9-aa76-eb94af835877")
 	)
 	(junction
-		(at 386.08 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "18e98da3-e145-461b-9577-5840ecd8b3d2")
-	)
-	(junction
 		(at 153.035 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6092,6 +6086,16 @@
 	)
 	(wire
 		(pts
+			(xy 381 144.78) (xy 386.715 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2051007a-a147-4337-b039-4341d6d95d08")
+	)
+	(wire
+		(pts
 			(xy 406.4 379.73) (xy 406.4 398.145)
 		)
 		(stroke
@@ -6862,16 +6866,6 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 129.54) (xy 386.08 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49eda74f-f5fd-49fb-b99c-b0bd29c4eb82")
-	)
-	(wire
-		(pts
 			(xy 368.935 365.125) (xy 376.555 365.125)
 		)
 		(stroke
@@ -7192,7 +7186,7 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 144.78) (xy 386.08 144.78)
+			(xy 408.94 129.54) (xy 408.94 123.19)
 		)
 		(stroke
 			(width 0)
@@ -7309,16 +7303,6 @@
 			(type default)
 		)
 		(uuid "5d1eed7a-2dd2-4f3a-b87f-c08c2a965d5b")
-	)
-	(wire
-		(pts
-			(xy 386.08 129.54) (xy 386.08 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d859ae1-eb05-4268-9d11-4d2d80f78784")
 	)
 	(wire
 		(pts
@@ -8472,6 +8456,16 @@
 	)
 	(wire
 		(pts
+			(xy 381 158.75) (xy 408.94 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9190eb4a-c97c-49ea-93f6-6b36a5a93f54")
+	)
+	(wire
+		(pts
 			(xy 106.68 316.865) (xy 106.68 318.77)
 		)
 		(stroke
@@ -9289,16 +9283,6 @@
 			(type default)
 		)
 		(uuid "c2505dde-68d7-40d5-9870-57dbe81dab97")
-	)
-	(wire
-		(pts
-			(xy 386.08 144.78) (xy 386.715 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2bafe0c-bc25-4f90-9032-1a1416dacf40")
 	)
 	(wire
 		(pts
@@ -10462,6 +10446,16 @@
 	)
 	(wire
 		(pts
+			(xy 381 144.78) (xy 381 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc69b266-dffd-42be-9411-01c881ec172e")
+	)
+	(wire
+		(pts
 			(xy 92.075 358.14) (xy 97.79 358.14)
 		)
 		(stroke
@@ -10607,13 +10601,13 @@
 		(uuid "400f7935-77b0-4497-8d89-fe3d14d341e3")
 	)
 	(label "VIN"
-		(at 379.73 144.78 0)
+		(at 408.94 123.19 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "426024ce-d6fe-4953-8ca7-f4f23b786b3f")
 	)

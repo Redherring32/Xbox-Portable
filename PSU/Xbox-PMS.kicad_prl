@@ -10,6 +10,7 @@
     "opacity": {
       "images": 0.6,
       "pads": 1.0,
+      "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
       "zones": 0.6
@@ -62,9 +63,10 @@
       33,
       34,
       35,
-      36
+      36,
+      41
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "7ffffff_80000007",
     "zone_display_mode": 0
   },
   "git": {
@@ -75,7 +77,7 @@
   },
   "meta": {
     "filename": "Xbox-PMS.kicad_prl",
-    "version": 3
+    "version": 4
   },
   "net_inspector_panel": {
     "col_hidden": [
@@ -106,7 +108,20 @@
       10,
       11
     ],
-    "col_widths": [],
+    "col_widths": [
+      162,
+      147,
+      91,
+      67,
+      91,
+      91,
+      91,
+      71,
+      91,
+      91,
+      91,
+      91
+    ],
     "custom_group_rules": [],
     "expanded_rows": [],
     "filter_by_net_name": true,
@@ -117,7 +132,7 @@
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
     "sort_ascending": true,
-    "sorting_column": -1
+    "sorting_column": 0
   },
   "project": {
     "files": []

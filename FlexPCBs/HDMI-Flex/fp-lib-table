@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HDMI-FFC")(type "KiCad")(uri "${KIPRJMOD}/HDMI-FFC.pretty")(options "")(descr ""))
+  (lib (name "hdmi")(type "KiCad")(uri "C:/Users/Redherring32/Downloads/xbox-hd-board/kicad-libs/schematics/connector/hdmi.pretty")(options "")(descr ""))
+)
